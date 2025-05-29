@@ -1,4 +1,4 @@
-﻿# 🔥 Free Fire Like Bot – API Guide
+ ﻿# 🔥 Free Fire Like Bot – API Guide
 
 This API allows you to automatically send likes to **Free Fire profiles** using guest accounts.
 
@@ -10,7 +10,7 @@ Follow these steps to set up and run the API:
 
 1. **Clone this repository** (if using Git):
     ```bash
-    git clone https://github.com/paulafredo/free-api-like-freefire
+    git clone 
     cd free-api-like-freefire
     ```
 

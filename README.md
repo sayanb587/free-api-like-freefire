@@ -122,6 +122,6 @@ GET /like?uid=1234567890
 ```
 ## 📜 Credits
 
-This project was created by [Paul Alfredo](https://github.com/paulafredo).  
+This project was created by [Harly]().  
 Feel free to check out his GitHub profile for more projects and contributions.
 
